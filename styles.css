@@ -191,6 +191,9 @@ section h3 {
     .contact-type + .summary {
         font-size: 14px;
     }
+    .designation {
+        font-size: 20px;
+    }
 }
 .skill-tags{
     display:flex;
