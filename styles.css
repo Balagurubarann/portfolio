@@ -113,8 +113,8 @@ header h2 { font-size: 1.1rem; color: var(--muted); font-weight: 400; }
     border-radius:12px;
     font-size: 14px;
     font-weight: 600;
-    color:var(--green);
-    background:var(--green-accent);
+    color:var(--accent);
+    background:var(--accent-glow);
     position: relative;
 }
 
@@ -123,8 +123,8 @@ header h2 { font-size: 1.1rem; color: var(--muted); font-weight: 400; }
     height: 10px;
     width: 10px;
     border-radius: 100%;
-    background-color: var(--green);
-    box-shadow: 0px 0px 12px var(--green);
+    background-color: var(--accent);
+    box-shadow: 0px 0px 12px var(--accent);
     position: absolute;
     left: 7%;
     top: 33%;
