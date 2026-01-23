@@ -268,7 +268,7 @@ footer {
     border-radius:12px;
     font-size:0.95rem;
     font-weight:500;
-    font-family: "JetBrains Mono", monospace;
+    font-family: "Manrope", sans-serif;
     border:1px solid var(--border);
     cursor:pointer;
     background:transparent;
@@ -289,7 +289,6 @@ footer {
     border-radius:14px; /* less than pill, more than card */
     font-size:0.9rem;
     font-weight:500;
-    color:var(--);
     color:var(--green);
     background:var(--green-accent);
     border:1px solid var(--green-accent);
