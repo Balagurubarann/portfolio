@@ -3,13 +3,13 @@
     --card: rgba(18, 21, 27, 0.75);
     --text: #e6e6e6;
     --muted: #9aa0aa;
-    --accent: rgb(239, 35, 60);
-    --accent-glow: rgba(239, 35, 60, 0.05);
+    --accent: rgb(164, 134, 213);
+    --accent-glow: rgba(164, 134, 213, 0.05);
     --green: rgb(102, 155, 188);
     --green-accent: rgba(102, 155, 188, 0.082);
-    --border: rgba(239, 35, 60, 0.08);
+    --border: rgba(164, 134, 213, 0.08);
     --icon: var(--accent);
-    --tag-hover: rgba(239, 35, 60, 0.10);
+    --tag-hover: rgba(164, 134, 213, 0.10);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
