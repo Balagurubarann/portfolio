@@ -5,7 +5,7 @@
     --muted: #9aa0aa;
     --accent: rgb(239, 35, 60);
     --accent-glow: rgba(239, 35, 60, 0.05);
-    --green: rgba(102, 155, 188);
+    --green: rgb(102, 155, 188);
     --green-accent: rgba(102, 155, 188, 0.082);
     --border: rgba(239, 35, 60, 0.08);
     --icon: var(--accent);
