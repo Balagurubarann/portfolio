@@ -53,7 +53,7 @@ a { color: var(--accent); text-decoration: none; }
 }
 
 .navbar li:hover {
-    color: var(--green);
+    color: var(--accent);
     transform: translateY(-2px);
 }
 
